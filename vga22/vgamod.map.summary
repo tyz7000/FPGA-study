@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Tue Apr 24 11:08:17 2018
+Quartus II Version : 9.0 Build 235 06/17/2009 SP 2 SJ Web Edition
+Revision Name : vgamod
+Top-level Entity Name : vgaaaa
+Family : Cyclone II
+Total logic elements : 99
+    Total combinational functions : 95
+    Dedicated logic registers : 28
+Total registers : 28
+Total pins : 6
+Total virtual pins : 0
+Total memory bits : 196,608
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1

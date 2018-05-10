@@ -1,0 +1,46 @@
+--------------------------------------------------------------------------------------
+Timing Analyzer Summary
+--------------------------------------------------------------------------------------
+
+Type           : Worst-case tco
+Slack          : N/A
+Required Time  : None
+Actual Time    : 10.657 ns
+From           : vgamod:inst9|vcnt[7]
+To             : vs
+From Clock     : clk
+To Clock       : --
+Failed Paths   : 0
+
+Type           : Clock Setup: 'fl:inst|altpll:altpll_component|_clk0'
+Slack          : 28.239 ns
+Required Time  : 25.00 MHz ( period = 40.000 ns )
+Actual Time    : 85.03 MHz ( period = 11.761 ns )
+From           : rom:inst1|altsyncram:altsyncram_component|altsyncram_3h71:auto_generated|ram_block1a31~porta_address_reg11
+To             : vgamod:inst9|g
+From Clock     : fl:inst|altpll:altpll_component|_clk0
+To Clock       : fl:inst|altpll:altpll_component|_clk0
+Failed Paths   : 0
+
+Type           : Clock Hold: 'fl:inst|altpll:altpll_component|_clk0'
+Slack          : 0.769 ns
+Required Time  : 25.00 MHz ( period = 40.000 ns )
+Actual Time    : N/A
+From           : rom:inst1|altsyncram:altsyncram_component|altsyncram_3h71:auto_generated|address_reg_a[3]
+To             : vgamod:inst9|g
+From Clock     : fl:inst|altpll:altpll_component|_clk0
+To Clock       : fl:inst|altpll:altpll_component|_clk0
+Failed Paths   : 0
+
+Type           : Total number of failed paths
+Slack          : 
+Required Time  : 
+Actual Time    : 
+From           : 
+To             : 
+From Clock     : 
+To Clock       : 
+Failed Paths   : 0
+
+--------------------------------------------------------------------------------------
+

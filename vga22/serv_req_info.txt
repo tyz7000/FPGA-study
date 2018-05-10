@@ -1,0 +1,48 @@
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>unknown</sub_system>
+	<file>unknown</file>
+	<line>0</line>
+	<callstack>
+	0x06c920ec: synth_vrfx + 0xb20ec (?elaborate@VRFX_ELABORATOR@@UAIPAVHDB_COMPONENT_SCHEMA@@PAVBASEX_ELABORATE_INFO@@@Z + 0x6ab5c)
+	0x06cbb798: synth_vrfx + 0xdb798 (?elaborate@VRFX_ELABORATOR@@UAIPAVHDB_COMPONENT_SCHEMA@@PAVBASEX_ELABORATE_INFO@@@Z + 0x94208)
+	0x06ca9200: synth_vrfx + 0xc9200 (?elaborate@VRFX_ELABORATOR@@UAIPAVHDB_COMPONENT_SCHEMA@@PAVBASEX_ELABORATE_INFO@@@Z + 0x81c70)
+	0x06c8dd64: synth_vrfx + 0xadd64 (?elaborate@VRFX_ELABORATOR@@UAIPAVHDB_COMPONENT_SCHEMA@@PAVBASEX_ELABORATE_INFO@@@Z + 0x667d4)
+	0x06c2429a: synth_vrfx + 0x4429a (??4VRFX_ELABORATOR@@QAEAAV0@ABV0@@Z + 0x998a)
+	0x00f8177f: DB_HDB + 0x177f (?find_sections@HDB_SECTION@@QAI?AViterator@?$list@PAVHDB_SECTION_COL@@V?$MEM_STL_ALLOCATOR@PAVHDB_SECTION_COL@@@@@_Dinkum_std@@W4ACF_SECTION_TYPE_ENUM@@@Z + 0xf)
+	0x78542e2a: MSVCR90 + 0x22e2a (_unlock + 0x14)
+	0x7854efe2: MSVCR90 + 0x2efe2 (_unlock_file + 0x2c)
+	0x7854fcf8: MSVCR90 + 0x2fcf8 (fflush + 0x50)
+	0x06c1a73b: synth_vrfx + 0x3a73b (?resolve_all_design_units@VRFX_ANALYZER@@SI_NPAVHDB_ACTION_PT_INSTANCE@@PAV?$list@V?$basic_string@DU?$char_traits@D@_Dinkum_std@@V?$MEM_STL_ALLOCATOR@D@@@_Dinkum_std@@V?$MEM_STL_ALLOCATOR@V?$basic_string@DU?$char_traits@D@_Dinkum_std@@V?$MEM_STL_ALLOCATOR@D@@@_Dinkum_std@@@@@_Dinkum_std@@1@Z + 0xb)
+	</callstack>
+	<error>Access Violation at 0X06C920EC</error>
+	<date>Tue Apr 24 10:53:40 2018</date>
+	<version>Quartus II Version 9.0 Build 235 06/17/2009 Service Pack 2 SJ Web Edition</version>
+	<full_error>Access Violation at 0X06C920EC
+Quartus II Version 9.0 Build 235 06/17/2009 Service Pack 2 SJ Web Edition </full_error>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>unknown</sub_system>
+	<file>unknown</file>
+	<line>0</line>
+	<callstack>
+	0x06c920ec: synth_vrfx + 0xb20ec (?elaborate@VRFX_ELABORATOR@@UAIPAVHDB_COMPONENT_SCHEMA@@PAVBASEX_ELABORATE_INFO@@@Z + 0x6ab5c)
+	0x06cbb798: synth_vrfx + 0xdb798 (?elaborate@VRFX_ELABORATOR@@UAIPAVHDB_COMPONENT_SCHEMA@@PAVBASEX_ELABORATE_INFO@@@Z + 0x94208)
+	0x06ca9200: synth_vrfx + 0xc9200 (?elaborate@VRFX_ELABORATOR@@UAIPAVHDB_COMPONENT_SCHEMA@@PAVBASEX_ELABORATE_INFO@@@Z + 0x81c70)
+	0x06c8dd64: synth_vrfx + 0xadd64 (?elaborate@VRFX_ELABORATOR@@UAIPAVHDB_COMPONENT_SCHEMA@@PAVBASEX_ELABORATE_INFO@@@Z + 0x667d4)
+	0x06c2429a: synth_vrfx + 0x4429a (??4VRFX_ELABORATOR@@QAEAAV0@ABV0@@Z + 0x998a)
+	0x00f8177f: DB_HDB + 0x177f (?find_sections@HDB_SECTION@@QAI?AViterator@?$list@PAVHDB_SECTION_COL@@V?$MEM_STL_ALLOCATOR@PAVHDB_SECTION_COL@@@@@_Dinkum_std@@W4ACF_SECTION_TYPE_ENUM@@@Z + 0xf)
+	0x78542e2a: MSVCR90 + 0x22e2a (_unlock + 0x14)
+	0x7854efe2: MSVCR90 + 0x2efe2 (_unlock_file + 0x2c)
+	0x7854fcf8: MSVCR90 + 0x2fcf8 (fflush + 0x50)
+	0x06c1a73b: synth_vrfx + 0x3a73b (?resolve_all_design_units@VRFX_ANALYZER@@SI_NPAVHDB_ACTION_PT_INSTANCE@@PAV?$list@V?$basic_string@DU?$char_traits@D@_Dinkum_std@@V?$MEM_STL_ALLOCATOR@D@@@_Dinkum_std@@V?$MEM_STL_ALLOCATOR@V?$basic_string@DU?$char_traits@D@_Dinkum_std@@V?$MEM_STL_ALLOCATOR@D@@@_Dinkum_std@@@@@_Dinkum_std@@1@Z + 0xb)
+	</callstack>
+	<error>Access Violation at 0X06C920EC</error>
+	<date>Tue Apr 24 10:53:57 2018</date>
+	<version>Quartus II Version 9.0 Build 235 06/17/2009 Service Pack 2 SJ Web Edition</version>
+	<full_error>Access Violation at 0X06C920EC
+Quartus II Version 9.0 Build 235 06/17/2009 Service Pack 2 SJ Web Edition </full_error>
+</internal_error>
+
