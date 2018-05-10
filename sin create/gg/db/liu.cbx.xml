@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="liu">
+		<CBX_INST_ENTRY INSTANCE_NAME="|liuliu|other:inst6|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_br71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|liuliu|sin_rom:inst3|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_jk71.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

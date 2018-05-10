@@ -1,0 +1,24 @@
+module addr32(dataa,datab,result,clk);
+input [31:0]dataa,datab;
+input clk;
+output result[31:0];
+reg [31:0]result;
+always@(posedge clk)
+begin
+	result<=dataa+datab;
+end
+endmodule
+
+
+module dff32(data,clk,q);
+input [31:0]data;
+input clk;
+output [31:0]q;
+reg [31:0]q;
+always@(posedge clk)
+begin 
+	q<=data;
+end
+endmodule
+
+

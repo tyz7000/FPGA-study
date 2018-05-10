@@ -1,0 +1,66 @@
+--------------------------------------------------------------------------------------
+Timing Analyzer Summary
+--------------------------------------------------------------------------------------
+
+Type           : Worst-case tsu
+Slack          : N/A
+Required Time  : None
+Actual Time    : 3.855 ns
+From           : B[17]
+To             : addr32:inst|result[31]
+From Clock     : --
+To Clock       : clk
+Failed Paths   : 0
+
+Type           : Worst-case tco
+Slack          : N/A
+Required Time  : None
+Actual Time    : 16.337 ns
+From           : dac7513:inst1|dacdout
+To             : dacdout
+From Clock     : clk
+To Clock       : --
+Failed Paths   : 0
+
+Type           : Worst-case th
+Slack          : N/A
+Required Time  : None
+Actual Time    : 0.026 ns
+From           : B[11]
+To             : addr32:inst|result[11]
+From Clock     : --
+To Clock       : clk
+Failed Paths   : 0
+
+Type           : Clock Setup: 'clk'
+Slack          : N/A
+Required Time  : None
+Actual Time    : 97.89 MHz ( period = 10.216 ns )
+From           : sin_rom:inst3|altsyncram:altsyncram_component|altsyncram_jk71:auto_generated|ram_block1a5~porta_address_reg9
+To             : dac7513:inst1|dacdout
+From Clock     : clk
+To Clock       : clk
+Failed Paths   : 0
+
+Type           : Clock Hold: 'clk'
+Slack          : Not operational: Clock Skew > Data Delay
+Required Time  : None
+Actual Time    : N/A
+From           : dac7513:inst1|clk25k
+To             : dac7513:inst1|cnt2[4]
+From Clock     : clk
+To Clock       : clk
+Failed Paths   : 6
+
+Type           : Total number of failed paths
+Slack          : 
+Required Time  : 
+Actual Time    : 
+From           : 
+To             : 
+From Clock     : 
+To Clock       : 
+Failed Paths   : 6
+
+--------------------------------------------------------------------------------------
+
